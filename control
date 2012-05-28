@@ -1,0 +1,9 @@
+Package: com.freemanrepo.lsbrightslider
+Name: LSBrightSlider
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Brightness slider on your lockscreen
+Maintainer: FreeManRepo
+Author: FreeManRepo
+Section: Tweaks
